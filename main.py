@@ -9,7 +9,7 @@ logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s
 logger = logging.getLogger(__name__)
 
 # Bot Token
-BOT_TOKEN = "7981794042:AAHFcE-JLuJHm7RADxhVCe6FOUxPiJgDe44"
+BOT_TOKEN = "7529913637:AAFr-E6m5HRQLwhCRGUZBhT9pUfzcwRnG4Q"
 
 # Function to edit PSD (Using PIL for demonstration, replace with PSD processing lib)
 def generate_logo(customer_name, color):
